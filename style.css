@@ -1,0 +1,26 @@
+.heading{
+    width: 80%;
+    font-size: 22px;
+    }
+    p{
+        color:maroon
+        }
+    .name_of_objects{
+    color:rgb(189, 43, 167)
+    }
+    #camera{
+    border: 2px dashed rgb(9, 0, 8);
+    width:350px;                
+    height:300px;
+    }
+    body{
+    background-color:aquamarine;
+    
+
+    }
+    #result_object_name{
+    color:peru;
+    }
+    #result_object_accuracy{
+        color:peru;
+        }
